@@ -1,7 +1,7 @@
 
 # Express Typescript setup with Nodemon for Development
 
-Created this template for my upskilling journey 🤞 I'll try to upskill my Backend Development skills in 30 Days, Day 1 will start new Date(2024,06,21)
+Created this template for my upskilling journey 🤞 I'll try to improve my Backend Development skills in 30 Days, Day 1 will start new Date(2024,06,21)
 
 
 I'll be using this and a Nestjs Template that I will create later.
